@@ -1,4 +1,4 @@
-# moore's law
+# Moore's Law
 
 General Information
 NumPy model for analysing Moore's Law.
